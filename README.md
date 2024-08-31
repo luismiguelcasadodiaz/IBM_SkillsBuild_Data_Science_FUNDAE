@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate (175 hours) FUNDAE
 
-## 01.- What is Data Science? (11 hours) [2024_08_25]
+## 01.- What is Data Science? (11 hours) ([2024_08_25](https://github.com/luismiguelcasadodiaz/IBM_SkillsBuild_Data_Science_FUNDAE/blob/d87b9f7e05a7083c414f03db6304dbbad76bdce5/C1_What_is_data_Science_11H.pdf))
 + Define data science and its importance in today’s data-driven world.
 + Describe the various paths that can lead to a career in data science.
 + Summarize  advice given by seasoned data science professionals to data scientists who are just starting out.
