@@ -6,21 +6,21 @@
 + Summarize  advice given by seasoned data science professionals to data scientists who are just starting out.
 + Explain why data science is considered the most in-demand job in the 21st century. 
 
-## 02.- Tools for Data Science (18 hours) [2024]
+## 02.- Tools for Data Science (18 hours) [2024_09_22]
 + Describe the Data Scientist’s tool kit which includes: Libraries & Packages, Data sets, Machine learning models, and Big Data tools   
 + Utilize languages commonly used by data scientists like Python, R, and SQL   
 + Demonstrate working knowledge of tools such as Jupyter notebooks and RStudio and utilize their various features    
 + Create and manage source code for data science using Git repositories and GitHub.   
 
-## 03.- Data Science Methodology (6 hours) []
+## 03.- Data Science Methodology (6 hours) [2024_11_17]
 
-## 04.- Python for Data Science, AI & Development (25 hours) []
+## 04.- Python for Data Science, AI & Development (25 hours) [2024_12_31]
 
-## 05.- Python Project for Data Science (8 hours) []
+## 05.- Python Project for Data Science (8 hours) [2025_01_01]
 
-## 06.- Databases and SQL for Data Science with Python (20 hours) []
+## 06.- Databases and SQL for Data Science with Python (20 hours) [2025_04_27]
 
-## 07.- Data Analysis with Python (15 hours) []
+## 07.- Data Analysis with Python (15 hours) [2025_06_11]
 
 ## 08.- Data Visualization with Python (20 hours) []
 
